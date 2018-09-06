@@ -1,1 +1,1 @@
-# news-app
+https://zakiajaffar.github.io/news-app/.
