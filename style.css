@@ -3,6 +3,7 @@ body{
 	background-size: cover;
 	background-position: center;
 	color:rgba(25, 24, 24, 0.77);
+	margin:0;
 }
 .img{
 	height: 200px;
@@ -77,6 +78,7 @@ a:hover{
 	background: rgba(228, 230, 227, 0.61);
 }
 .heading{
+	z-index: 1;
 	background-color: #777f74;
 	color:#dadcd9;
 	position: -webkit-sticky;
@@ -86,6 +88,7 @@ a:hover{
     justify-content: center;
     align-items: center;
     height: 75px;
+    text-align: center;
 
 }
 .heading > h1{
