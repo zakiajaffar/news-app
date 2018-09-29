@@ -1,6 +1,6 @@
 
 # Forcast
-You can visit the website herehttps://zakiajaffar.github.io/news-app/.
+You can visit the website here https://zakiajaffar.github.io/news-app/.
 ### Optional (do as many as you like)
 
 * The application now only reports the current news. It should probably report the news e.g. a few hours from now. (https://newsapi.org/)
